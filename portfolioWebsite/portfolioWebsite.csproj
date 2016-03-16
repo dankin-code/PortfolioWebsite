@@ -96,9 +96,12 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="img\portfolio\Blog.png" />
+    <Content Include="img\portfolio\BugTracker.png" />
     <Content Include="img\portfolio\car_finder.png" />
     <Content Include="img\portfolio\factorial.png" />
     <Content Include="img\portfolio\fizzBuzz.png" />
+    <Content Include="img\portfolio\newProject.png" />
     <Content Include="img\portfolio\numbers.png" />
     <Content Include="img\portfolio\palindrome.png" />
     <Content Include="img\profile.jpg" />
