@@ -101,6 +101,7 @@
     <Content Include="img\portfolio\car_finder.png" />
     <Content Include="img\portfolio\factorial.png" />
     <Content Include="img\portfolio\fizzBuzz.png" />
+    <Content Include="img\portfolio\householdbuget.png" />
     <Content Include="img\portfolio\newProject.png" />
     <Content Include="img\portfolio\numbers.png" />
     <Content Include="img\portfolio\palindrome.png" />
@@ -128,6 +129,7 @@
     <Content Include="LICENSE" />
     <Content Include="README.md" />
     <Content Include="docs\resume.pdf" />
+    <None Include="Properties\PublishProfiles\dkinai - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\dkinai - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

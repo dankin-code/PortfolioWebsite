@@ -11,11 +11,12 @@ function factorial() {
 
     // validate the number entered
 
-    if (isNaN(theNumber) || theNumber < 1) {
-        message = "Please enter a number between 1 and 100";
+    if (isNaN(theNumber) || theNumber < 1 || theNumber > 100) {
+    //if (theNumber < 1 || theNumber>100) {
+            message = "Please enter a number between 1 and 100";
     }
     else {
-        message = "You entered a valid number";
+         message = "You entered a valid number";
 
         //to calculate a factorial, we have to get the number to multiply by itself
         // then reduce it by one and repeat the multiplication until the value reaches 1  
