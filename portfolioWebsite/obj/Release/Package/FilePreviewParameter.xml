@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="dkinai" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\work\\Documents\\Visual\ Studio\ 2015\\Projects\\PortfolioWebsite\\portfolioWebsite\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\work\\Documents\\Visual\ Studio\ 2015\\Projects\\PortfolioWebsite\\portfolioWebsite\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

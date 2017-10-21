@@ -33,3 +33,38 @@ C:\Users\work\Documents\Visual Studio 2015\Projects\portfolioWebsite\portfolioWe
 C:\Users\work\Documents\Visual Studio 2015\Projects\portfolioWebsite\portfolioWebsite\bin\roslyn\vbc.exe.config
 C:\Users\work\Documents\Visual Studio 2015\Projects\portfolioWebsite\portfolioWebsite\bin\roslyn\vbc.rsp
 C:\Users\work\Documents\Visual Studio 2015\Projects\portfolioWebsite\portfolioWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\ApplicationInsights.config
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\csc.exe
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\csc.exe.config
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\csc.rsp
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\csi.exe
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\csi.rsp
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\System.AppContext.dll
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\System.Console.dll
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\vbc.exe
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\vbc.exe.config
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\vbc.rsp
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\portfolioWebsite.dll.config
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\portfolioWebsite.dll
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\portfolioWebsite.pdb
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\obj\Release\portfolioWebsite.csprojResolveAssemblyReference.cache
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\obj\Release\portfolioWebsite.dll
+C:\Users\work\Documents\Files\Coder Foundry\Projects\PortfolioWebsite\portfolioWebsite\obj\Release\portfolioWebsite.pdb

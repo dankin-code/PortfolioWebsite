@@ -96,6 +96,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\grayscale.css" />
+    <Content Include="css\grayscale.min.css" />
     <Content Include="img\portfolio\Blog.png" />
     <Content Include="img\portfolio\BugTracker.png" />
     <Content Include="img\portfolio\car_finder.png" />
